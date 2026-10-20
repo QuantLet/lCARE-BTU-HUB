@@ -9,9 +9,9 @@ Name of Quantlet: LCARE_Critical_Values
 
 Published in: LCARE
 
-Description: Plots the simulated critical values across different
+Description: Plots the simulated critical values across different parameter constellations for the modest (upper panel, r = 0.5) and conservative (lower panel, r = 1) risk cases, for two expectile
 
-levels: 0.05 (blue) and 0.01 (red).
+levels: 0.05 (blue) and 0.01 (red).'
 
 Keywords: 
 - plot
