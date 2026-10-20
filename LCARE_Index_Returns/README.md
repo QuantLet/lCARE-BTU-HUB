@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Index_Returns
 
 Published in: LCARE
 
-Description: LCARE_Index_Returns plots selected index return time series from 3 January 2005 to 31 December 2014
+Description: LCARE_Index_Returns plots selected index return time series from 3 January 2005 to 31 December 2014 (2608 trading days)
 
 Keywords: 
 - risk management
