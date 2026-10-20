@@ -9,9 +9,9 @@ Name of Quantlet: LCARE_Estimation_Rolling_005
 
 Published in: LCARE
 
-Description: Estimates the parameters of CARE model with fix rolling
+Description: Estimates the parameters of CARE model with fix rolling window for selected indices. Selected rolling window
 
-lengths: 1 month (20 days), 3 months (60 days), 6 months
+lengths: 1 month (20 days), 3 months (60 days), 6 months (125 days) and 12 months (250 days) for tau = 0.05.'
 
 Keywords: 
 - estimation
@@ -44,7 +44,7 @@ Input: DataIndices.dat
 
 Output: LCARE_Estimate_Rolling_001.png
 
-Example: Plots of the second parameter of CARE model with different fixed
+Example: Plots of the second parameter of CARE model with different fixed rolling windows (the second parameter alpha1).
 
 ```
 <div align="center">
