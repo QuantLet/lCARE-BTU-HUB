@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Test_Statistics_Th2_001
 
 Published in: LCARE
 
-Description: Evaluates the likelihood ratio test statistics for
+Description: Evaluates the likelihood ratio test statistics for parameter constellation theta2 and expectile leve 0.01
 
 Keywords: 
 - estimation
