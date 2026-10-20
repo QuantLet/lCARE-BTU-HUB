@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Risk_Bound_Results
 
 Published in: LCARE
 
-Description: Summarizes the risk bound for different parameter
+Description: Summarizes the risk bound for different parameter constellations and two expectile levels 0.01 and 0.05.
 
 Keywords: 
 - time-series
