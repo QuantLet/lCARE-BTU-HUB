@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Adaptive_Estimation_Length_001
 
 Published in: LCARE
 
-Description: Estimates length of the interval of homogeneity in
+Description: Estimates length of the interval of homogeneity in trading days across the selected three stock markets from 3 January 2006 to 31 December 2014 for the modest (upper panel, r = 0.8) and the conservative (lower panel, r = 1) risk cases, at expectile level 0.01.
 
 Keywords: 
 - plot
