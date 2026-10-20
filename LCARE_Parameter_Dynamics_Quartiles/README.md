@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Parameter_Dynamics_Quartiles
 
 Published in: LCARE
 
-Description: Pools the estimated parameters together based on CARE model, and
+Description: Pools the estimated parameters together based on CARE model, and show the descriptive statistics  first quartile (25% quantile), mean value, third quartile (75% quantile))
 
 Keywords: 
 - risk management
