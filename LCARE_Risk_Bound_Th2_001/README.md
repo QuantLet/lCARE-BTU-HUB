@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Risk_Bound_Th2_001
 
 Published in: LCARE
 
-Description: Simulates the risk bound of a CARE model according to
+Description: Simulates the risk bound of a CARE model according to theta2 parameter constellation at expectile level tau = 0.01
 
 Keywords: 
 - estimation
