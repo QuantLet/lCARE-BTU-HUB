@@ -9,7 +9,7 @@ Name of Quantlet: LCARE_Critical_Values_Th3_005
 
 Published in: LCARE
 
-Description: Evaluates the critical values based on the likelihood
+Description: Evaluates the critical values based on the likelihood ration and risk bound at parameter constellation theta3 and expectile leve tau = 0.05
 
 Keywords: 
 - estimation
