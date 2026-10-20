@@ -9,9 +9,7 @@ Name of Quantlet: LCARE_Index_Returns_Description
 
 Published in: LCARE
 
-Description: Provides descriptive statistics for the selected index return time series
-
-days): mean, median, minimum (Min), maximum (Max),
+Description: Provides descriptive statistics for the selected index return time series from 3 January 2005 to 31 December 2014 (2608 trading days): mean, median, minimum (Min), maximum (Max), standard deviation (Std), skewness (Skew.) and kurtosis (Kurt.)
 
 Keywords: 
 - risk management
